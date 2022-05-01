@@ -1,0 +1,4 @@
+.idea
+loss_charts
+accuracy_charts
+diabetes_model.h5
